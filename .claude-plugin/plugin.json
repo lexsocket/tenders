@@ -1,0 +1,9 @@
+{
+  "name": "tenders",
+  "description": "Search, analyze, and monitor European public tenders (TED + 18 national sources) and EU legislation — directly from your AI assistant.",
+  "version": "1.0.0",
+  "author": {
+    "name": "LexSocket.ai",
+    "url": "https://lexsocket.ai"
+  }
+}

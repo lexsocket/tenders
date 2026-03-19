@@ -1,16 +1,8 @@
 {
   "mcpServers": {
-    "National Tenders": {
+    "LexSocket": {
       "type": "http",
-      "url": "https://mcp.lexsocket.ai/national_tenders"
-    },
-    "TED": {
-      "type": "http",
-      "url": "https://mcp.lexsocket.ai/ted"
-    },
-    "EurLex": {
-      "type": "http",
-      "url": "https://mcp.lexsocket.ai/eurlex"
+      "url": "https://mcp.lexsocket.ai/"
     }
   }
 }
